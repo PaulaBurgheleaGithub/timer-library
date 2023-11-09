@@ -1,16 +1,9 @@
 ## Tech Stack
-PaulaBurgheleaGithub/timer-library is built on the following main stack:
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+Timer-library built during the bootcamp at The Jump to help practice some of the date concepts learned in JS.
+This library has been created so that it can be used in other JS projects.
 
-Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
-
---- Readme.md Snippet with images Start ---
-## Tech Stack
-PaulaBurgheleaGithub/timer-library is built on the following main stack:
+Timer-library is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-
-Full tech stack [here](/techstack.md)
 
 <div align="center">
 
